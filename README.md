@@ -22,15 +22,6 @@ The codebase includes:
 
 This repository represents practical robotics programming focused on reliability, control, precision, match awareness, and real competition performance.
 
-## Screenshots
-
-![PIDF Graph for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels_graph.jpg)
-![PIDF's parameters for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels.jpg)
-![PIDF's parameters for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels_(2).jpg)
-![PIDF's parameters for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels_(3).jpg)
-![PIDF Graph for 1 flywheel calibrations in FTC Dashboard](images/pidf_tuning_in_dashboard_for_1_flywheel.jpg)
-
-
 ## What I Worked On
 
 As part of the programming work for this season, I contributed to several advanced technical systems used on the competition robot.
@@ -179,6 +170,14 @@ Possible future improvements include:
 - screenshots and code examples
 - deeper explanation of calibration and tuning workflows
 - visual diagrams for the geometry-based launch validation system
+
+## Screenshots
+
+![PIDF Graph for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels_graph.jpg)
+![PIDF's parameters for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels.jpg)
+![PIDF's parameters for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels_(2).jpg)
+![PIDF's parameters for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels_(3).jpg)
+![PIDF Graph for 1 flywheel calibrations in FTC Dashboard](images/pidf_tuning_in_dashboard_for_1_flywheel.jpg)
 
 ## Author / Team
 
