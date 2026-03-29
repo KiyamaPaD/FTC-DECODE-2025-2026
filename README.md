@@ -22,6 +22,10 @@ The codebase includes:
 
 This repository represents practical robotics programming focused on reliability, control, precision, match awareness, and real competition performance.
 
+## Screenshots
+
+![PIDF for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels_graph.jpg)
+
 ## What I Worked On
 
 As part of the programming work for this season, I contributed to several advanced technical systems used on the competition robot.
