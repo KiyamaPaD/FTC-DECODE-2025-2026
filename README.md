@@ -24,7 +24,7 @@ This repository represents practical robotics programming focused on reliability
 
 ## Screenshots
 
-![PIDF for 2 flywheels calibrations in desmos](images/pidf tuning in desmos for 2 flywheels graph.jpg)
+![PIDF for 2 flywheels calibrations in desmos](images/pidf_tuning_in_desmos_for_2_flywheels_graph.jpg)
 
 ## What I Worked On
 
